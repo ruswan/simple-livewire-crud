@@ -57,7 +57,7 @@ php artisan migrate
 php artisan serve
 ```
 
-9. Visit `http://localhost:8000` in your web browser to access the application.
+9. Visit `http://localhost:8000/users` in your web browser to access the application.
 
 ## Usage
 
